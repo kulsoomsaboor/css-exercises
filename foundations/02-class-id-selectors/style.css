@@ -1,0 +1,23 @@
+.pinkbar {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana , DejaVu Sans , sans-serif;
+
+}
+
+#bar2{
+    color:hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.pinkbar.bar3{
+    font-size: 24px;
+}
+
+#bar4{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
