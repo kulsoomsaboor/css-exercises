@@ -1,0 +1,36 @@
+/* type class */
+/* div .text{
+    background-color: yellow;
+    font-size: 20px ;
+    text-align: center ;
+    color: red;
+    
+    
+    } */
+
+/* class type */
+/* .container p{
+    background-color: yellow;
+    font-size: 20px ;
+    text-align: center ;
+    color: red;
+    
+
+} */
+
+/* class class  */
+.container .text{
+
+    background-color: yellow;
+    font-size: 20px ;
+    text-align: center ;
+    color: red;
+    
+
+}
+
+
+
+
+
+
